@@ -65,7 +65,7 @@ header {
 	background-color: hotpink;
 	width: 490px;
 	height: 350px;
-	background-image: url(img/delivery.jpg);
+	background-image: url(../img/delivery.jpg);
 	border-radius: 5px;
 }
 .texto-envio-gratis {
